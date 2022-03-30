@@ -4,4 +4,4 @@ https://www.nowcoder.com/exam/oj
 在线编程 -> sql -> 全部题目
 
 
-![avatar](/C:\Users\Xpengkang\Documents\nowcoder_SQL\nowcoderSQL\image\牛客sql.png)
+![avatar](https://github.com/xpengkang/nowcoderSQL/tree/main/image/牛客sql.png)
