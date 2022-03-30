@@ -7,5 +7,7 @@ https://www.nowcoder.com/exam/oj
 
 
 ![avatar](https://github.com/xpengkang/nowcoderSQL/tree/main/image/牛客sql.png)
-![alt 属性文本](https://github.com/xpengkang/nowcoderSQL/tree/main/image/牛客sql.png)
 
+
+
+![](image/牛客sql.png)
