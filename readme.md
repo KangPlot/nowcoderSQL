@@ -6,8 +6,7 @@ https://www.nowcoder.com/exam/oj
 在线编程 -> sql -> 全部题目
 
 
-![avatar](https://github.com/xpengkang/nowcoderSQL/tree/main/image/牛客sql.png)
 
 
 
-![](image/牛客sql.png)
+![如图](image/牛客sql.png)
