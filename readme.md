@@ -1,8 +1,10 @@
-update 2022/03/17
+update 2022/03/30
 
-if you want to practice sql, go web https://www.nowcoder.com/exam/oj?tab=SQL%E7%AF%87&topicId=199
+练习网站：
+https://www.nowcoder.com/exam/oj
 
-I found that it update some new sql questions, and i confused by the practice sequence of the questions i push in this repo.
+在线编程 -> sql -> 全部题目
 
-may the force be with you! 
+
+![avatar](https://github.com/xpengkang/nowcoderSQL/tree/main/image/牛客sql.png)
 
